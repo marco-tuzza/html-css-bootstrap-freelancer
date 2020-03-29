@@ -7,6 +7,7 @@
     border-color: #313e4f;
     border-radius: 0px;
     margin-bottom: 0px;
+    padding: 15px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -41,4 +42,29 @@ main {
 
 .list-inline li{
     color: white;
+}
+
+.star {
+    margin-bottom: 20px;
+}
+
+.glyphicon {
+    color: white;
+    font-size: 30px;
+    padding: 10px 10px;
+}
+
+.line {
+    display: inline-block;
+    background-color: white;
+    width: 75px;
+    height: 3px;
+    border-radius: 15px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: white;
+    font-size: 15px;
 }
