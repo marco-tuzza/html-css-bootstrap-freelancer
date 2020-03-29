@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+ #navigation {
+    background-color: #313e4f;
+    border-color: #313e4f;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+#start {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#portfolio, #about, #contact {
+    color: white;
+    font-weight: bold;
+}
+
+main {
+    background-color:#66ba9e;
+    height: 100%;
+}
+
+.immagine {
+    padding-top: 50px;
+}
+
+.start-main {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.list-inline li{
+    color: white;
+}
