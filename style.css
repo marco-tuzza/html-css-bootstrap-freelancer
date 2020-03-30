@@ -122,10 +122,29 @@ h3, .text-center {
     border-color: white;
     padding: 15px;
     transition-duration: 0.5s;
+    margin-bottom: 40px;
 }
 
 .btn-default:hover {
     color: black;
     background-color: white;
     border-color: white;
+}
+
+.form-control {
+    border: 0px;
+    border-radius: 0px;
+    margin-top: 20px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 20px;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    border-color: grey;
+    box-shadow: none;
+}
+
+.form-control::placeholder {
+    color: #6C757D;
 }
