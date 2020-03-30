@@ -148,3 +148,45 @@ h3, .text-center {
 .form-control::placeholder {
     color: #6C757D;
 }
+
+footer {
+    background-color: #2C3E50;
+}
+
+footer .container .row p.h2 {
+    font-weight: bold;
+}
+
+footer .container .row p {
+    color: white;
+    font-weight: normal;
+    font-size: 18px;
+    padding: 20px 50px;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.list-inline i{
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 14px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.copyright {
+    background-color: #1A252F;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.copyright p {
+    font-weight: normal;
+    font-size: 12px;
+}
